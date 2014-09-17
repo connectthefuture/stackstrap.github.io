@@ -1,11 +1,10 @@
 name: StackStrap
-description: Combining Git and Jinja to make templating setups a breeze.
-meta_description: "Combining Git and Jinja to make templating setups a breeze."
+description: Evolving DevOps with Salt, Vagrant and Docker.
+meta_description: "Evolving DevOps with Salt, Vagrant and Docker."
 
 markdown: redcarpet
 pygments: true
 logo: false
-paginate: 15
 
 # Details for the RSS feed generator
 url:            'blog url'
