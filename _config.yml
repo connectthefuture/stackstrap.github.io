@@ -1,0 +1,12 @@
+name: StackStrap
+description: Combining Git and Jinja to make templating setups a breeze.
+meta_description: "Combining Git and Jinja to make templating setups a breeze."
+
+markdown: redcarpet
+pygments: true
+logo: false
+paginate: 15
+
+# Details for the RSS feed generator
+url:            'blog url'
+author:         'Your Name'
