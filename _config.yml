@@ -1,6 +1,6 @@
 name: StackStrap
-description: Evolving DevOps with Salt, Vagrant and Docker.
-meta_description: "Evolving DevOps with Salt, Vagrant and Docker."
+description: Using Salt, Vagrant and Docker to evolve DevOps for everyone.
+meta_description: "Using Salt, Vagrant and Docker to evolve DevOps for everyone."
 
 markdown: redcarpet
 pygments: true
