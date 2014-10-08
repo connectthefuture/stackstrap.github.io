@@ -3,6 +3,8 @@ permalink: /
 layout: page
 ---
 
+In a sense StackStrap is a decentralized [PaaS].
+
 There is an incredible wealth of open-source DevOps tools available today, all
 with their own growing communities. With the advent of Node.js a wave of
 people are working with the Linux command line for the first time. Patterns
@@ -17,3 +19,5 @@ grow to enable our project workflows should be distilled and kept in version
 control. We may build certain things in certain ways, but each new project is
 always drawn from a bag of tricks.  StackStrap aims to ensure that the bag of
 tricks works better for everyone.
+
+[PaaS]: http://en.wikipedia.org/wiki/Platform_as_a_service
