@@ -3,7 +3,12 @@ permalink: /
 layout: page
 ---
 
-In a sense StackStrap is a decentralized [PaaS].
+In a sense StackStrap is a decentralized [PaaS] which aims to simplify the
+process of building and deploying web based applications and services. The
+project is geared towards small and medium sized operations which employ a
+wide range of skill levels. The idea is to build upon the simplicities
+offered by services like [Heroku] while allowing companies to leverage the
+costs savings of bare bones cloud services like [AWS] or [Digital Ocean].
 
 There is an incredible wealth of open-source DevOps tools available today, all
 with their own growing communities. With the advent of Node.js a wave of
@@ -21,3 +26,6 @@ always drawn from a bag of tricks.  StackStrap aims to ensure that the bag of
 tricks works better for everyone.
 
 [PaaS]: http://en.wikipedia.org/wiki/Platform_as_a_service
+[Heroku]: https://www.heroku.com/
+[AWS]: http://aws.amazon.com/
+[Digital Ocean]: https://www.digitalocean.com/
