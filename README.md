@@ -32,6 +32,62 @@ enabled to learn a short list of simple commands which enable clear objectives.
 This will allow teams to easily apply more structure to their workflows so they
 can spend more time making the things they love while worrying less.
 
+## The Triumvirate
+
+##### Vagrant
+
+Effectively [Vagrant] distills all virtualization to a small subset of rational
+commands. Be it virtualization on your local machine or on the cloud, Vagrant
+enables you to boil down the process of creating/starting/stoping these machines
+to simple commands that can be remembered and understood by anyone. Vagrant has
+a massive user base contributing to it that is which is not restricted to any
+paticualar language. This makes Vagrant the perfect choice as the standard
+gateway to virtualization and automation. Be it virtualizing a local
+development environment or a server to deploy your application to, Vagrant
+makes it easy for anyone.
+
+##### Salt
+
+[Salt] is the newest configuration management tool on the market and offers
+some key design vartiations that will set it apart from its competitors. It
+focuses on the decentralization of operations to cut out the bottlenecks that
+occur when dealing with thousands of servers while also being able to easily
+setup just a single machine. Salt was designed to be extremley flexible and
+enable the process of creatively shaping virtual systems for anything
+imaginable. The core idea behind Salt is the process of describing the "State"
+of a system as an object of data. This allows you to define a system using YAML,
+JSON or whatever else comes along. The process of defining how something will
+work as an object is becoming the standard in DevOps, as seen in popular tools
+like [Grunt] or [Gulp].
+
+##### Docker
+
+[Docker] is the evolution of how applications will run and be deployed.
+Essentially it allows you to isolate all the the system processes that your
+application depends on within a sandboxed container. You can run this container
+on any system with a modern Linux kernel. The process of "docking" to a running
+Linux kernel means that a Docker container will boot in next to no time. This
+means that you could verify your application is running as expected on your
+local machine and then deliver it to a remote server.  It also means that you
+can have one powerful machine that runs all of your environments (staging,
+production...) as proxies to a single web server. This offers serious cost and
+preformance benefits while reducing a great deal of redundancies.
+
+## The Goal
+
+StackStrap believes that good open-source ideas will effectively build
+themselves. The project aims to evolve to be exactly what people need it to be.
+It may not be exactly this today, but the goal is to get a solid groundwork in
+place to get there. Having solid developer operations in place is the key to any
+successfuly project. On top of that keep up with emerging standards is also
+extremely important. If this project could enable a "DevOps-on-demand" model that
+freelancers could sell to companies that would be viewed as a huge success!
+
 [PaaS]: http://en.wikipedia.org/wiki/Platform_as_a_service
 [Heroku]: https://www.heroku.com/
 [AWS]: http://aws.amazon.com/
+[Vagrant]: http://vagrantup.com/
+[Salt]: http://saltstack.com/
+[Grunt]: http://gruntjs.com/
+[Gulp]: http://gulpjs.com/
+[Docker]: https://www.docker.com/
