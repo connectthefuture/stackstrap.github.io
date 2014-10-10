@@ -53,7 +53,7 @@ right foot can have huge rewards and is worth the investment.
 ##### Vagrant
 
 Effectively [Vagrant] distills virtualization to a small subset of rational
-commands. Be it virtualization on your local machine or on the cloud, Vagrant
+commands; be it virtualization on your local machine or on the cloud. Vagrant
 enables you to boil down the process of creating/starting/stoping these machines
 to simple commands that can be remembered and understood by anyone. Vagrant has
 a massive user base contributing to it which is not fixated on any particular
