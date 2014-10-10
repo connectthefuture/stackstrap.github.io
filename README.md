@@ -11,7 +11,7 @@ folks who have been pushing the boundaries of media. There is an incredible
 opportunity to normalize and grow the patterns we use to build new things.
 The problem is that into order to utilize all of this goodness you need an
 awful lot of background knowledge to get to the point where it works
-effectively.
+effectively. StackStrap seeks to mitigate these issues.
 
 StackStrap is decentralized in nature and could be described as a [PaaS] that
 companies can run for themselves. The project aims to simplify the process of
