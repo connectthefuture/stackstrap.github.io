@@ -5,10 +5,15 @@ layout: page
 
 In a sense StackStrap is a decentralized [PaaS] which aims to simplify the
 process of building and deploying web based applications and services. The
-project is geared towards small and medium sized operations which employ a
-wide range of skill levels. The idea is to build upon the simplicities
-offered by services like [Heroku] while allowing companies to leverage the
-costs savings of bare bones cloud services like [AWS] or [Digital Ocean].
+project is geared towards smaller operations which employ a wide range of skill
+levels and may not be able to afford in house developer operations. The idea is
+to build upon the simplicities offered by services like [Heroku] while allowing
+companies to leverage the costs savings of bare bones cloud services like [AWS]
+or [Digital Ocean]. Ultimately StackStrap is a strategy for utilizing the three
+greatest tools that have ever been offered to the web development community. The
+core focus is ensuring that workflows are easy to understand and manipulate.
+This will allow teams to apply more structure to their workflows and spend more
+time making the things they love while worrying less about operations.
 
 There is an incredible wealth of open-source DevOps tools available today, all
 with their own growing communities. With the advent of Node.js a wave of
