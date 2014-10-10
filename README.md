@@ -12,13 +12,14 @@ opportunity to normalize and grow the patterns we use to build new things.
 The problem is that into order to utilize all of this goodness you need an
 awful lot of background knowledge to get to the point where it works.
 
-In a sense StackStrap is a decentralized [PaaS] which aims to simplify the
-process of building and deploying web based applications and services with
-open-source. The project is geared towards smaller operations which employ a
-wide range of skill levels and may not be able to afford in house developer
-operations. The idea is to build upon the simplicities offered by services like
-[Heroku] while allowing companies to leverage the costs savings of bare bones
-cloud services like [AWS].
+StackStrap could be described as a [PaaS] that companies can run for themselves.
+The project aims to simplify the process of building and deploying web based
+applications and services using existing open-source. By building up around
+existing projects StackStrap becomes little more than an evolving strategy. The
+project is geared towards smaller operations which employ a wide range of skill
+levels and may not be able to afford in house developer operations. The idea is
+to offer the simplicities offered by services like [Heroku] while allowing
+companies to leverage the costs savings of bare bones cloud services like [AWS].
 
 Ultimately StackStrap is a strategy for utilizing the three greatest
 automation innovations that have ever been offered to the web development
