@@ -18,8 +18,8 @@ applications and services using existing open-source. By building up around
 existing projects StackStrap becomes little more than an evolving strategy. The
 project is geared towards smaller operations which employ a wide range of skill
 levels and may not be able to afford in house developer operations. The idea is
-to offer the simplicities offered by services like [Heroku] while allowing
-companies to leverage the costs savings of bare bones cloud services like [AWS].
+to offer the simplicities of services like [Heroku] while allowing companies to
+leverage the costs savings of bare bones cloud services like [AWS].
 
 Ultimately StackStrap is a strategy for utilizing the three greatest
 automation innovations that have ever been offered to the web development
