@@ -29,8 +29,9 @@ community. StackStrap revolves around the idea that the core of a well oiled
 project is little more than a tree of files. Some of those files should be able
 to describe how to automate things into a state that just works. Teams should be
 enabled to learn a short list of simple commands which enable clear objectives.
-This will allow teams to easily apply more structure to their workflows so they
-can spend more time making the things they love while worrying less.
+This will allow teams to work with simple workflows that offer far more
+structure so they can spend more time making the things they love while worrying
+less.
 
 ## The Goal
 
