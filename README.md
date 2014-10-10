@@ -32,6 +32,16 @@ enabled to learn a short list of simple commands which enable clear objectives.
 This will allow teams to easily apply more structure to their workflows so they
 can spend more time making the things they love while worrying less.
 
+## The Goal
+
+StackStrap believes that good open-source ideas will effectively build
+themselves. The project aims to evolve to be exactly what people need it to be.
+It may not be exactly this today, but the goal is to get a solid groundwork in
+place to get there. Having solid developer operations in place is the key to any
+successfuly project. On top of that keep up with emerging standards is also
+extremely important. If this project could enable a "DevOps-on-demand" model that
+freelancers could sell to companies that would be viewed as a huge success!
+
 ## The Triumvirate
 
 ##### Vagrant
@@ -72,16 +82,6 @@ local machine and then deliver it to a remote server.  It also means that you
 can have one powerful machine that runs all of your environments (staging,
 production...) as proxies to a single web server. This offers serious cost and
 preformance benefits while reducing a great deal of redundancies.
-
-## The Goal
-
-StackStrap believes that good open-source ideas will effectively build
-themselves. The project aims to evolve to be exactly what people need it to be.
-It may not be exactly this today, but the goal is to get a solid groundwork in
-place to get there. Having solid developer operations in place is the key to any
-successfuly project. On top of that keep up with emerging standards is also
-extremely important. If this project could enable a "DevOps-on-demand" model that
-freelancers could sell to companies that would be viewed as a huge success!
 
 [PaaS]: http://en.wikipedia.org/wiki/Platform_as_a_service
 [Heroku]: https://www.heroku.com/
