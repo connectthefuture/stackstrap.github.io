@@ -50,15 +50,15 @@ team and project at hand.
 
 ##### Vagrant
 
-Effectively [Vagrant] distills virtualization to a small subset of rational
-commands; be it virtualization on your local machine or on the cloud. Vagrant
-enables you to boil down the process of creating/starting/stoping these machines
-to simple commands that can be remembered and understood by anyone. Vagrant has
-a massive user base contributing to it which is not fixated on any particular
-community. This makes Vagrant the perfect choice as the standard gateway to
-virtualization and automation. Be it virtualizing a local development
-environment or a server to deploy your application to, Vagrant makes it easy for
-anyone.
+[Vagrant] reduces the hugely complex subject of virtualization to a small subset
+of uniform and rational commands; be it virtualization on your local machine or on
+the cloud.  Vagrant enables you to take the process of creating, starting, and
+stopping these instances to simple commands that can be remembered and understood
+by anyone.
+
+Vagrant has a massive user base contributing to it which is not fixated on any
+particular community. This makes Vagrant the perfect choice as the standard
+gateway to virtualization and automation. 
 
 ##### Salt
 
