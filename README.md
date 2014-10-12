@@ -23,6 +23,12 @@ developer operations. The idea is to offer the simplicities of services like
 [Heroku] while allowing companies to leverage the costs savings of root cloud
 services like [AWS].
 
+<!--
+I don’t like Heroku & AWS being called out directly. I think you should describe
+what value Heroku adds and remove the name reference. Same with AWS. For all we
+know someone may way to use this with private cloud and custom automation.
+-->
+
 Ultimately StackStrap is a strategy for utilizing the three greatest
 automation innovations that have ever been offered to the web development
 community. StackStrap revolves around the idea that the core of a well oiled
