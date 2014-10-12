@@ -60,19 +60,19 @@ Vagrant has a massive user base contributing to it which is not fixated on any
 particular community. This makes Vagrant the perfect choice as the standard
 gateway to virtualization and automation. 
 
-##### Salt
+##### SaltStack
 
-[Salt] is the newest configuration management tool on the market and offers
-some key design vartiations that will set it apart from its competitors. It
-focuses on the decentralization of operations to cut out the bottlenecks that
-occur when dealing with thousands of servers while also being able to easily
-setup just a single machine. Salt was designed to be extremley flexible and
-enable the process of creatively shaping virtual systems for anything
-imaginable. The core idea behind Salt is the process of describing the "State"
-of a system as an object of data. This allows you to define a system using YAML,
-JSON or whatever else comes along. The process of defining how something will
-work as an object is becoming the standard in DevOps, as seen in popular tools
-like [Grunt] or [Gulp].
+[Salt] is infrastructure management software that is easy enough to get running in
+seconds, scalable enough to manage tens of thousands of servers, and fast enough
+to control and communicate with them in milliseconds.
+
+Salt was designed to be extremely flexible and enable the process of creatively
+shaping virtual systems for anything imaginable. The core idea behind Salt is the
+process of describing the "State" of a system as an object of data. This allows
+you to define your desired configuration for systems using YAML, a straight
+forward markup language that is easy to read and write. The process of defining
+how something will work as an object is becoming the standard in DevOps, as seen
+in popular tools like [Grunt] or [Gulp].
 
 ##### Docker
 
