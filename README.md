@@ -76,16 +76,16 @@ in popular tools like [Grunt] or [Gulp].
 
 ##### Docker
 
-[Docker] is the evolution of how applications will run and be deployed.
-Essentially it allows you to isolate all the the system processes that your
-application depends on within a sandboxed container. You can run this container
-on any system with a modern Linux kernel. The process of "docking" to a running
-Linux kernel means that a Docker container will boot in next to no time. This
-means that you could verify your application is running as expected on your
-local machine and then deliver it to a remote server.  It also means that you
-can have one powerful machine that runs all of your environments (staging,
-production...) as proxies to a single web server. This offers serious cost and
-preformance benefits while reducing a great deal of redundancies.
+[Docker] is the evolution of how applications will run and be deployed.  It allows
+you to isolate all of the processes that your application depends on within a
+sandboxed container. You can run this container on any system with a modern Linux
+kernel. The process of "docking" to a running Linux kernel means that a Docker
+container will boot in next to no time. This means that you could verify your
+application is running as expected on your local machine and then deliver it to a
+remote server.  It also means that you can have one powerful machine that runs all
+of your environments (staging, production...) as proxies to a single web server.
+This offers serious cost and performance benefits while reducing a great deal of
+redundancies.
 
 [PaaS]: http://en.wikipedia.org/wiki/Platform_as_a_service
 [Heroku]: https://www.heroku.com/
