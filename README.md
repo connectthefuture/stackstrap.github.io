@@ -4,14 +4,14 @@ layout: page
 ---
 
 There is an incredible wealth of open-source DevOps tools available today, all
-with their own growing communities. With the advent of Node.js, a wave of
-people are working with the Linux command line for the first time. Patterns
-that were long only the territory of pure hackers are being optioned by the
-folks who have been pushing the boundaries of media. There is an incredible
-opportunity to normalize and grow the patterns we use to build new things.
-The problem is that into order to utilize all of this goodness you need an
-awful lot of background knowledge to get to the point where it works
-effectively. StackStrap seeks to mitigate these issues.
+with their own growing communities. With the recent surge in popularity of command
+line centric open source, a wave of newcomers are working with the UNIX command
+line for the first time. Patterns that were long only the territory of hackers are
+being optioned by the folks who have learned development from a media first
+perspective. There is an incredible opportunity to normalize and grow the patterns
+we use to build things.  The problem is that into order to utilize all of this
+goodness you need an awful lot of background knowledge to get to the point where
+it works effectively. StackStrap seeks to mitigate these issues.
 
 StackStrap is decentralized in nature and could be described as a [PaaS] that
 companies can run for themselves. The project aims to simplify the process of
