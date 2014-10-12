@@ -29,15 +29,16 @@ what value Heroku adds and remove the name reference. Same with AWS. For all we
 know someone may way to use this with private cloud and custom automation.
 -->
 
-Ultimately StackStrap is a strategy for utilizing the three greatest
-automation innovations that have ever been offered to the web development
-community. StackStrap revolves around the idea that the core of a well oiled
-project is little more than a tree of files. Some of those files should be able
-to describe how to automate things into a state that just works. Teams should be
-enabled to learn a short list of simple commands which enable clear objectives.
-This will allow teams to work with simple workflows that offer far more
-structure so they can spend more time making the things they love while worrying
-less.
+Ultimately StackStrap is a strategy for utilizing some of the greatest automation
+innovations that have been offered to the modern web development community.  It
+revolves around the idea that the core of a project well suited for rapid and
+collaborative development is little more than a specifically laid out tree of
+files containing meta-data to describe and coordinate these automation tools in a
+way that "just works". Teams should be enabled to learn a short list of simple
+commands that enable clear objectives.  This will allow them to utilize simple
+work-flows that offer well defined structure so they can spend more time writing
+code while worrying less about low level details about the environment that they
+will run in.
 
 ## The Goal
 
