@@ -42,18 +42,9 @@ will run in.
 
 ## The Goal
 
-Good open-source ideas should effectively build themselves. StackStrap aims to
-evolve to be exactly what teams need out of it. It may not be exactly this today,
-but the goal is to get a solid groundwork in place to get there. StackStrap is all
-about distilling the fundamentals of DevOps and never being perscriptive. Instead
-teams should be able to digest these fundamentals and run the way that they feel
-works best for them. Having solid developer operations in place is the key to any
-successful project. On top of that being able to keep up with emerging standards
-is extremely important.
-
-If this project could enable a "DevOps-on-demand" model that freelancers could
-sell to companies, that would be viewed as a huge success! Getting off on the
-right foot can have huge rewards and is worth the investment.
+StackStrap is about distilling the fundamentals of DevOps and providing a concise
+framework to apply these fundamentals in whichever way works best for the specific
+team and project at hand.
 
 ## The Triumvirate
 
