@@ -34,53 +34,6 @@ work-flows that offer well defined structure so they can spend more time writing
 code while worrying less about low level details about the environment that they
 will run in.
 
-## The Goal
-
-StackStrap is about distilling the fundamentals of DevOps and providing a concise
-framework to apply these fundamentals in whichever way works best for the specific
-team and project at hand.
-
-## The Triumvirate
-
-##### Vagrant
-
-[Vagrant] reduces the hugely complex subject of virtualization to a small subset
-of uniform and rational commands; be it virtualization on your local machine or on
-the cloud.  Vagrant enables you to take the process of creating, starting, and
-stopping these instances to simple commands that can be remembered and understood
-by anyone.
-
-Vagrant has a massive user base contributing to it which is not fixated on any
-particular community. This makes Vagrant the perfect choice as the standard
-gateway to virtualization and automation. 
-
-##### SaltStack
-
-[Salt] is infrastructure management software that is easy enough to get running in
-seconds, scalable enough to manage tens of thousands of servers, and fast enough
-to control and communicate with them in milliseconds.
-
-Salt was designed to be extremely flexible and enable the process of creatively
-shaping virtual systems for anything imaginable. The core idea behind Salt is the
-process of describing the "State" of a system as an object of data. This allows
-you to define your desired configuration for systems using YAML, a straight
-forward markup language that is easy to read and write. The process of defining
-how something will work as an object is becoming the standard in DevOps, as seen
-in popular tools like [Grunt] or [Gulp].
-
-##### Docker
-
-[Docker] is the evolution of how applications will run and be deployed.  It allows
-you to isolate all of the processes that your application depends on within a
-sandboxed container. You can run this container on any system with a modern Linux
-kernel. The process of "docking" to a running Linux kernel means that a Docker
-container will boot in next to no time. This means that you could verify your
-application is running as expected on your local machine and then deliver it to a
-remote server.  It also means that you can have one powerful machine that runs all
-of your environments (staging, production...) as proxies to a single web server.
-This offers serious cost and performance benefits while reducing a great deal of
-redundancies.
-
 [PaaS]: http://en.wikipedia.org/wiki/Platform_as_a_service
 [Heroku]: https://www.heroku.com/
 [AWS]: http://aws.amazon.com/
